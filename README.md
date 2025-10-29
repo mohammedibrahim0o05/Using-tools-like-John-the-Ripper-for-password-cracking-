@@ -61,3 +61,9 @@ john --show myhashes.txt
 <img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 08-10-2025 08_28_27" src="https://github.com/user-attachments/assets/efad7ae2-596a-4076-a662-447a80f93a8b" />
 <img width="1920" height="1080" alt="KALI 2  Running  - Oracle VirtualBox 08-10-2025 08_28_21" src="https://github.com/user-attachments/assets/a638d74b-b835-4349-b907-56ef3f3ecdb2" />
 <img width="1410" height="288" alt="Screenshot 2025-10-08 084703" src="https://github.com/user-attachments/assets/135ae702-0839-4cf5-a991-49f63eba4a84" />
+
+
+## RESULT:
+The password hashes were successfully cracked using John the Ripper.
+
+
